@@ -11,11 +11,11 @@ I would like to be able to leave a comment
 ``` 
 Tasks:
 - [x] Write request spec
-- [ ] Add comment model
-- [ ] Comment needs to contain a body
-- [ ] Add association between comment and article
-- [ ] Only authenticated user can comment, add user model with devise token auth
-- [ ] Add association between comment and user
+- [x] Add comment model
+- [x] Comment needs to contain a body
+- [x] Add association between comment and article
+- [x] Only authenticated user can comment, add user model with devise token auth
+- [x] Add association between comment and user
 
 
 You need to fork the repository and clone the forked repository to your computer. Then you need to branch off from the development branch. When you feel that you are done, you need to create a pull request towards the upstream repository. Make sure that the PR contains the correct information. The user story and what changes that are proposed in the PR.
