@@ -10,7 +10,7 @@ In order to voice my opinion on an article
 I would like to be able to leave a comment
 ``` 
 Tasks:
-- [ ] Write request spec
+- [x] Write request spec
 - [ ] Add comment model
 - [ ] Comment needs to contain a body
 - [ ] Add association between comment and article
